@@ -8,7 +8,7 @@
 
 QWindow::QWindow(QWidget *parent) : QWidget(parent), ui(new Ui::QWindow)
 {
-    QFile file(":/QWindow.css");
+    QFile file(":/V3WinDec.css");
     if (file.open(QFile::ReadOnly))
     {
         setStyleSheet(file.readAll());
