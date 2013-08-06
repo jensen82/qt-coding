@@ -147,7 +147,7 @@
          </size>
         </property>
         <property name="icon">
-         <iconset resource="V3WinDec.qrc">
+         <iconset resource="QWindoe.qrc">
           <normaloff>:/ui/images/app_min.png</normaloff>:/ui/images/app_min.png</iconset>
         </property>
         <property name="iconSize">
@@ -176,7 +176,7 @@
          </size>
         </property>
         <property name="icon">
-         <iconset resource="V3WinDec.qrc">
+         <iconset resource="QWindow.qrc">
           <normaloff>:/ui/images/app_max.png</normaloff>:/ui/images/app_max.png</iconset>
         </property>
         <property name="iconSize">
@@ -205,7 +205,7 @@
          </size>
         </property>
         <property name="icon">
-         <iconset resource="V3WinDec.qrc">
+         <iconset resource="QWindow.qrc">
           <normaloff>:/ui/images/app_close.png</normaloff>:/ui/images/app_close.png</iconset>
         </property>
         <property name="iconSize">
@@ -237,7 +237,7 @@
  </widget>
  <layoutdefault spacing="6" margin="11"/>
  <resources>
-  <include location="V3WinDec.qrc"/>
+  <include location="QWindow.qrc"/>
  </resources>
  <connections>
   <connection>
