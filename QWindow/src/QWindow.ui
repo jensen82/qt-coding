@@ -147,7 +147,7 @@
          </size>
         </property>
         <property name="icon">
-         <iconset resource="QWindoe.qrc">
+         <iconset resource="QWindow.qrc">
           <normaloff>:/ui/images/app_min.png</normaloff>:/ui/images/app_min.png</iconset>
         </property>
         <property name="iconSize">
